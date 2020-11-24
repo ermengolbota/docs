@@ -1,0 +1,2 @@
+# docs
+Proves amb mkdocs
